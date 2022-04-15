@@ -6,7 +6,7 @@ git clone https://github.com/dap23/Responsive-Navbar.git
 ```
 
 ## Live preview
-[see webpage]('https://dap23.github.io/Responsive-Navbar/')
+[see webpage](https://dap23.github.io/Responsive-Navbar/)
 
 
 
